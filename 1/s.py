@@ -27,6 +27,8 @@ def median (a,b,c):
 			return b
 
 
+
+
 print(median(1,2,3))
 #>>> 2
 
